@@ -1,2 +1,4 @@
 date,transport_km,energy_kwh,waste_kg,transport_emission,energy_emission,waste_emission,total_emission,cumulative_emission
 2025-08-25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-08-25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025-08-25,2.0,1.0,2.0,0.42,0.5,4.0,4.92,4.92
